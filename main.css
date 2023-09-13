@@ -53,21 +53,3 @@ form button {
     padding: 8px;
 }
 
-table {
-    width: 100%;
-}
-
-table th {
-    border-bottom: 2px solid #9b1589;
-    padding: 16px;
-    font-size: 24;
-    color: #9b1589;
-    font-weight: bold;
-}
-
-table td {
-    text-align: center;
-    font-size: 18px;
-    padding: 16px 0;
-    border-bottom: 1px solid rgba(0,0,0,0.1);
-}
