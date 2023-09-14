@@ -53,3 +53,11 @@ form button {
     padding: 8px;
 }
 
+ul {
+cursor: pointer;
+color: #9b1589;
+}
+
+.traco {
+    text-decoration: line-through;
+}
